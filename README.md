@@ -4,3 +4,5 @@ Nikita Peskov
 BSUIR
 
 New test DATA
+add some info on github
+
